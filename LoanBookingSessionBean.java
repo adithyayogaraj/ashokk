@@ -34,4 +34,9 @@ System.out.println();
 //function calling  
 printPattern(n);  
 }  
-}  
+}
+
+Adl
+Anna Nagar
+Greens Tech
+
